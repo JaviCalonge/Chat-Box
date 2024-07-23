@@ -1,14 +1,11 @@
-/* * {
-  box-sizing: border-box;
-}
-
-body, div, img, span, p {
-  margin: 0;
-  padding: 0;
-} */
-
 body {
   background-color: rgb(90, 145, 240);
+}
+
+.enlace {
+  display: flex;
+  align-items: center;
+  gap: 10px;
 }
 
 .chat {
